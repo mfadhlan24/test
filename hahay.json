@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "teak-bebop-317511",
+  "private_key_id": "2c59c6799a62b7d14ced3e56dea981d2579284e2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCH0PcV+sn1YuiY\niCmRAjm4rDM8x1QHKzETQ/8lBhJ0/QF0tW9fevTkQbwyJLSMyAOKpMK+7gWzxetU\nUV672B8K/eWv3zxXPNlWgrqxfubzftIpIyqyJmBLdnYfRCYSAiNYi+TCIatjgk2j\nPzRmjUIaYHgoF3ONBNGRzgd2C9PfqXAuOFBMJ39vZVESAbv7aeiJD24j1y8KXUF1\n9p62v0UztPv8Wh7NGCps/7wTnQIoWMBIg5YzUwq5isSJJUoKJ5fpUitwGxb9+p5T\nsr8AUmUazTf8aI6CL7dwI7AeMOMANdokww/9NU0y39iOWin00sWdOrz5+9eVPzN8\nW430cuupAgMBAAECggEAA0bCPzB+oMHTFKLsRchE9jSJQ+UXHNko5OsWA6Gi3lmg\nKF2cIzSHJd6EGL2T8XV9yGFzJUH+tziGFdGktGlhTlWTret3vC8GmzSqJlAGaEdd\n8IodpJCScB+ad+Sf+n08tw0g5qIDTXI+RzrmG7c6qgI7w9PVAMjl+Vt8CJf+c33M\n7IoHxUacfK8BXr9CQnbAj+hL7BT0YwcqjK9iWtgPkR8lMVO9EEhwCK6amOjnac4l\nDaGofjN1+HPke2ZfhERvyc+j24Q08EgKSqckLTSK7qQx71zb+tSV0KdptwF65DeF\n6glXLqRwyQWhmAfZDBdaxzemrPf8kZlkgJjspDdjgQKBgQC9rcFHxqKHyo3HgAuy\nUtdwF7UZpv7qwN0d/CK0U2PruNNVBiU61fjetv5KW1J0u8O44cs/2glwAq0fZ02y\nAk9EKCZtuMmW1u/132Vsi2Wr21lEeX0K74iZ+rdTllO5taiNUAWHqyE6mClFPl7z\nwV+4BHlDIeZQx8bM7y3r9VHqGQKBgQC3TfPTXH24H1Z551rArRqks+0PSQynYv6r\nMPkmv5XmKVGm4qAFJ/EYr5ZeNLqM/Ed9pCKzULaM9wJpf0uLTAWoE4UtF/nToCnQ\n/BXPZ7FGk6HYDl5sd9gSu6kvSVSD2uuEmpGdsnvLxOhZEzBPTxK67GZ+HZqKRSM2\ndkctjSFgEQKBgDySvZOvYn4c+HQKdzHGdNhuKb58bxIG71ZBC9AshU9k4dBYOxFz\n/ZsaM1EJouZ2hAWJzf+hILxtjl3l/pDnXer1K3iEt5P9JfqOEfS8+4YLcZGFfqI8\nZpJN17fQ3QIEekROlsWBqAXvS9a6GVacnXXFr/f5XnTTp7AQfcjJuhQZAoGAV2Qd\nw/4LnhWqt9G6LbQZyL5TXf84vjDvM5TUpEmg4KuAVy0il3K0ek10RhOjgQXh25++\nP3lSnyBAkSV0UcP7ymcMDjSpEeEBLraQe2J3XSuTdJtdHx9/72Zywa2XUomz0XOT\nyvhGFx8YmycP2C/dwSplrujUPem6YQPA6ZGogNECgYBEjrl8MIa0nDnFOCrSTH9k\npsiCsKQb5Js5BkXwfKbsyEnrz1LQeUYsL82dOhOaWecAOD9U2/rdPt1+E8HJt84c\nchnLmC/iGISq1vHRG7T1VZRfccPhG9Mq92AdPChV+0BoXpadCfgPYhVLbMbim2hf\nMMnjHGDDQKlq7eYgtWspFA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fadhlan-review@teak-bebop-317511.iam.gserviceaccount.com",
+  "client_id": "101237224226331156190",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fadhlan-review%40teak-bebop-317511.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
