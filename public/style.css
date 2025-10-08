@@ -1,0 +1,29 @@
+.result-card {
+  border: 1px solid #e9ecef;
+  border-radius: 16px;
+  padding: 16px;
+  margin-bottom: 14px;
+  background: #fff;
+}
+.result-header {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 12px;
+}
+.badge-soft {
+  background: #eef4ff;
+  color: #1d4ed8;
+  border: 1px solid #dbe7ff;
+}
+.small-muted { font-size: 0.925rem; color: #667085; }
+.pre {
+  white-space: pre-wrap;
+  border: 1px dashed #d0d5dd;
+  border-radius: 10px;
+  padding: 10px 12px;
+  background: #fafafa;
+}
+.copy-btn { white-space: nowrap; }
+.btn-rounded { border-radius: 999px; }
+.swal2-popup { border-radius: 16px !important; }

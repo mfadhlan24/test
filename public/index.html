@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sariling Group | Google Review</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body class="bg-light">
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm">
+  <div class="container">
+    <span class="navbar-brand fw-semibold">PKL Review Helper | Sariling Group</span>
+    <span class="navbar-text small">Cari nama → copy ulasan → submit link & tipe konten</span>
+  </div>
+</nav>
+
+<div class="container py-4">
+  <div class="card border-0 shadow-sm rounded-4">
+    <div class="card-body">
+      <form id="formSearch" class="row g-3 align-items-end">
+        <div class="col-md-4">
+          <label class="form-label fw-semibold">Nama</label>
+          <input type="text" id="name" class="form-control" placeholder="ketik namamu..." required>
+        </div>
+
+        <div class="col-md-4">
+          <label class="form-label fw-semibold">Tab/Sheet</label>
+          <select id="tab" class="form-select">
+            <option value="">(pakai default server)</option>
+            <option>SK PUSAT</option>
+            <option>SK BANDUNG</option>
+            <option>SK JAKARTA</option>
+            <option>SK SURABAYA</option>
+            <option>SK SEMARANG</option>
+            <option>SK MEDAN</option>
+            <option>SK KALIMANTAN</option>
+            <option>KREASI NUSANTARA P</option>
+            <option>DAMAR HANJAYA</option>
+            <option>TAMARO NUSANTARA</option>
+            <option>BRILIAN CAHYA SUKSES</option>
+            <option>INDOTECH GLOBAL</option>
+          </select>
+          <div class="form-text">Pilih tab sesuai tempat kamu.</div>
+        </div>
+
+        <div class="col-md-4">
+          <label class="form-label fw-semibold">Perusahaan (opsional)</label>
+          <select id="company" class="form-select">
+            <option value="">(jangan ubah di ulasan)</option>
+            <option>Solusi Klik</option>
+            <option>Kreasi Nusantara Perwira</option>
+            <option>TAMARO NUSANTARA</option>
+            <option>DAMAR HANJAYA</option>
+            <option>BRILIAN CAHYA SUKSES</option>
+            <option>INDOTECH GLOBAL</option>
+          </select>
+          <div id="goCompany" class="mt-2 d-none">
+            <a href="#" target="_blank" id="goCompanyLink" class="btn btn-outline-primary btn-sm">Kunjungi Website Perusahaan</a>
+          </div>
+        </div>
+
+        <div class="col-12 d-flex gap-2">
+          <button class="btn btn-primary px-4" type="submit">Cari</button>
+          <button id="btnReset" class="btn btn-outline-secondary" type="button">Reset</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div id="results" class="mt-4"></div>
+</div>
+
+<script src="/script.js"></script>
+</body>
+</html>
